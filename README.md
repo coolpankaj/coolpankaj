@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coolpankaj
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning data science and flutter
+- 🌱 I’m currently learning cloud computing
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 - 📫 You can reach me on mail and can also connect through linkedin
